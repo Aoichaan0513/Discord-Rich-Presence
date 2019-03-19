@@ -15,8 +15,8 @@ namespace Discord_Rich_Presence
 {
     public partial class Form1 : Form
     {
-        private string clientId = "557302945771683850";
-        private string partyId = "ae488379-351d-4a4f-ad32-2b9b01c91657";
+        private string clientId = "Client_ID";
+        private string partyId = "Party_ID";
         private static int discordPipe = -1;
 
         private DiscordRpcClient client;
